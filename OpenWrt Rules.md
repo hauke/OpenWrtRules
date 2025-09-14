@@ -25,9 +25,9 @@ _**Commit access**_
   
 _**Voting**_
 
-* All active members have the right to vote and are invited
+* All active members have the right to vote and are encouraged
   to liberally exercise this voting right in order to
-  keep a broad consensus on project matters.
+  maintain a broad consensus on project matters.
 * To propose changes to project matters or the overall development direction,
   a formal proposal must be sent to the openwrt-adm mailing list.
   The proposal must clearly describe the suggested changes
@@ -35,7 +35,7 @@ _**Voting**_
   A simple approval is required.
 * All active members who voted in the past 6 months before the new vote
   was started are considered active voters. If less than 3 votes
-  happened in the past 6 months the last 3 votes are considered to
+  occurred in the past 6 months the last 3 votes are considered to
   determine the active voters.
 * For a simple approval, the proposal must achieve a two-thirds majority
   among the active members who participate in the vote.
@@ -44,10 +44,10 @@ _**Voting**_
 * For a change to these rules, a 75% majority among the active members
   who participate in the vote must approve,
   as well as 50% approval from the active voters.
-* Neutral votes are considered half aprovals.
+* Neutral votes are considered half-approvals.
 * Frequent contributors may become members after a simple approval.
   Project members are free to suggest suitable candidates.
-* Any votes and decisions made will be made public on the project website.
+* Any votes and decisions will be made public on the project website.
 
 _**Infrastructure**_
 
@@ -64,5 +64,5 @@ _**Other rules**_
 
 * The project will not offer individual email accounts
   under its project domain for privacy and equality reasons.
-* Be nice to each other (Formerly known as "Rule 12")
+* Be nice to each other (formerly known as "Rule 12")
 
