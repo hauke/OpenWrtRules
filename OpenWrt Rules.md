@@ -35,10 +35,10 @@ _**Voting**_
   The proposal must clearly describe the suggested changes
   and include a specific deadline for when the voting period will end.
   A simple approval is required.
-* All active members who voted in the past 6 months before the new vote
-  was started are considered active voters. If less than 3 votes
-  occurred in the past 6 months the last 3 votes are considered to
-  determine the active voters.
+* All active members who participate in the new vote or voted in the past
+  6 months before the new vote was started are considered active voters.
+  If less than 3 votes occurred in the past 6 months the last 3 votes
+  are considered to determine the active voters. 
 * For a simple approval, the proposal must achieve a two-thirds majority
   among the active members who participate in the vote.
   Additionally, it must receive approval from at least 50% of the active
