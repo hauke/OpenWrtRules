@@ -8,7 +8,8 @@ _**Membership**_
   active members, inactive members, and non-members.
   There is no core developer group or any other
   group of specially privileged members.
-* Members may voluntarily switch between active and inactive status at any time.
+* Members may voluntarily switch between active and inactive status at
+  any time.
 * If a member appears not to be participating in project matters, 
   any active member may request that the non-participating
   member switch to inactive status. 
@@ -28,8 +29,9 @@ _**Voting**_
 * All active members have the right to vote and are encouraged
   to liberally exercise this voting right in order to
   maintain a broad consensus on project matters.
-* To propose changes to project matters or the overall development direction,
-  a formal proposal must be sent to the openwrt-adm mailing list.
+* To propose changes to project matters or the overall development
+  direction, a formal proposal must be sent to the openwrt-adm mailing
+  list.
   The proposal must clearly describe the suggested changes
   and include a specific deadline for when the voting period will end.
   A simple approval is required.
@@ -39,8 +41,8 @@ _**Voting**_
   determine the active voters.
 * For a simple approval, the proposal must achieve a two-thirds majority
   among the active members who participate in the vote.
-  Additionally, it must receive approval from at least 50% of the active voters,
-  regardless of whether they participated in the vote.
+  Additionally, it must receive approval from at least 50% of the active
+  voters, regardless of whether they participated in the vote.
 * For a change to these rules, a 75% majority among the active members
   who participate in the vote must approve,
   as well as 50% approval from the active voters.
@@ -51,14 +53,15 @@ _**Voting**_
 
 _**Infrastructure**_
 
-* Project infrastructure should be outsourced to FOSS community operated services
-  whenever possible in order to allow members
+* Project infrastructure should be outsourced to FOSS community operated
+  services whenever possible in order to allow members
   to focus on actual development efforts.
 * Any infrastructure that is operated by the project
   itself shall be administered by at least three different people
   to reduce the likelihood of the project getting locked out
   due to administrators being unreachable.
-* Responsible administrators for the various services shall be documented publicly.
+* Responsible administrators for the various services shall be
+  documented publicly.
 
 _**Other rules**_
 
