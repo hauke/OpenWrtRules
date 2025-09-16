@@ -17,6 +17,8 @@ _**Membership**_
   with the openwrt-adm mailing list in CC.
   If the person either agrees or does not respond within 30 days,
   they will be moved to inactive status.
+* Frequent contributors may become members after a simple approval.
+  Project members are free to suggest suitable candidates.
   
 _**Commit access**_
 
@@ -47,8 +49,6 @@ _**Voting**_
   who participate in the vote must approve,
   as well as 50% approval from the active voters.
 * Neutral votes are considered half-approvals.
-* Frequent contributors may become members after a simple approval.
-  Project members are free to suggest suitable candidates.
 * Any votes and decisions will be made public on the project website.
 
 _**Infrastructure**_
