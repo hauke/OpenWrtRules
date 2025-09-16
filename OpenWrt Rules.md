@@ -18,7 +18,7 @@ _**Membership**_
   If the person either agrees or does not respond within 30 days,
   they will be moved to inactive status.
 * Frequent contributors may become members after a simple approval.
-  Project members are free to suggest suitable candidates.
+  Project members are free to propose suitable candidates.
   
 _**Commit access**_
 
