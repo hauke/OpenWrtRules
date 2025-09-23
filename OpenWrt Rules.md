@@ -23,7 +23,7 @@ _**Membership**_
 _**Commit access**_
 
 * Active members can request commit access to all repositories.
-* The commit credentials of inactive members are revoked.
+* The commit credentials of inactive members can be revoked.
   They will be restored upon their return to active status.
   
 _**Voting**_
